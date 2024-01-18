@@ -35,7 +35,6 @@
                 <configuration>
                     <includes>
                         <include>
-                            part2.jentezar.TestDrive
                             part3.jentezar.guitarTest
                         </include>
                     </includes>
