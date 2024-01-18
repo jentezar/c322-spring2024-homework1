@@ -35,7 +35,7 @@
                 <configuration>
                     <includes>
                         <include>
-                            part2.guitarTest
+                            part2.TestDrive
                         </include>
                         <include>
                             part3.guitarTest
