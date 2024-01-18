@@ -35,8 +35,8 @@
                 <configuration>
                     <includes>
                         <include>
-                            edu.iu.jentezar.TestDrive
-                            edu.iu.jentezar.guitarTest
+                            part2.jentezar.TestDrive
+                            part3.jentezar.guitarTest
                         </include>
                     </includes>
                     <excludes>
