@@ -15,7 +15,7 @@ public class Guitar {
         this.backWood = backWood;
         this.topWood = topWood;
     }
-
+    //get functions
     public String getSerialNumber(){
         return this.serialNumber;
     }
